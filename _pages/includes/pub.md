@@ -13,7 +13,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OJAP 2025</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">OJAP 2025</div><img src='images/phase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10947014) \\
@@ -25,7 +25,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCL 2023</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCL 2023</div><img src='images/Correlated.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Performance Analysis of RISAssisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ 
