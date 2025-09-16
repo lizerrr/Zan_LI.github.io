@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2024</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Radio Tomographic Imaging with Reconfigurable Intelligent Surfaces](https://ieeexplore.ieee.org/document/10618967) \\
+[Radio Tomographic Imaging with Reconfigurable Intelligent Surfaces](https://livrepository.liverpool.ac.uk/3183537/1/RIS-RTI_3rd_accepted.pdf) \\
 **Z. LI**, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch
 
 - We proposed a novel RIS-assisted device-free sensing, named RIS-RTI. By incorporating additional radio links provided by RIS into conventional RTI systems, **RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction**.
@@ -16,7 +16,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">OJAP 2025</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://ieeexplore.ieee.org/abstract/document/10947014) \\
+[The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10947014) \\
 **Z. Li**, A. Dubey and R. Murch
 
 - We proposed a Received Signal Strength (RSS)-based wireless sensing system named xPRA-LM, which estimates the electromagnetic properties of objects in the environment using inverse scattering theory. By including phase information provided by the communication system, the enhanced system is more resilient to noise and significantly improves the quality of reconstructions.
@@ -25,40 +25,14 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCL 2023</div><img src='images/mega.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) \\ 
-Ziyue Jiang, Jinglin Liu, **Yi Ren**, et al.
+[Performance Analysis of RISAssisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ 
+**Z. Li**, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch
 
-[**Project**](https://boostprompt.github.io/boostprompt/) 
-  - This work has been deployed on many TikTok products.
-  - Advandced zero-shot voice cloning model.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='images/diffsinger.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism](https://arxiv.org/abs/2105.02446) \\
-Jinglin Liu, Chengxi Li, **Yi Ren**, Feiyang Chen, Zhou Zhao
-
-- Many [video demos](https://www.bilibili.com/video/BV1be411N7JA) created by the [DiffSinger community](https://github.com/openvpi) are released.
-- DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (1600k+ views) on Bilibili!
-
-- [**Project**](https://diffsinger.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=DiffSpeech Stars)](https://github.com/NATSpeech/NATSpeech) \| [![](https://img.shields.io/github/stars/MoonInTheRiver/DiffSinger?style=social&label=DiffSinger Stars)](https://github.com/MoonInTheRiver/DiffSinger) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/DiffSpeech)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2021</div><img src='images/portaspeech.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://arxiv.org/abs/2109.15166) \\
-**Yi Ren**, Jinglin Liu, Zhou Zhao
-
-[**Project**](https://portaspeech.github.io/) \| [![](https://img.shields.io/github/stars/NATSpeech/NATSpeech?style=social&label=Code+Stars)](https://github.com/NATSpeech/NATSpeech) \| [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?label=Demo)](https://huggingface.co/spaces/NATSpeech/PortaSpeech)
+-  We theoretically demonstrate that the element grouping strategy performs better when the RIS has a compact design, with inter-element spacing less than half the wavelength,
+- **IEEE Bibtex**: Z. Li, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch, "Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation," in IEEE Wireless Communications Letters, vol. 12, no. 4, pp. 630-634, April 2023, doi: 10.1109/LWC.2023.3237232
 </div>
 </div>
 
