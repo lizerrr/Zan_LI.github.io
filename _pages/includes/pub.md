@@ -19,7 +19,7 @@
 [The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10947014) \\
 **Z. Li**, A. Dubey and R. Murch
 
-- We proposed a Received Signal Strength (RSS)-based wireless sensing system named xPRA-LM, which estimates the electromagnetic properties of objects in the environment using inverse scattering theory. By including phase information provided by the communication system, the enhanced system is more resilient to noise and significantly improves the quality of reconstructions.
+- We proposed a Received Signal Strength (RSS)-based wireless sensing system named xPRA-LM, which estimates the electromagnetic properties of objects. By including phase information provided by the communication system, we could enhance the robustness to noise and significantly improves the quality of reconstructions.
 - **IEEE Bibtex**: Z. Li, A. Dubey and R. Murch, "The Impact of Phase Information on the Imaging Performance of the Extended Phaseless Rytov Approximation," in IEEE Open Journal of Antennas and Propagation, vol. 6, no. 4, pp. 989-1000, Aug. 2025, doi: 10.1109/OJAP.2025.3556848
 </div>
 </div>
@@ -31,7 +31,8 @@
 [Performance Analysis of RISAssisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ 
 **Z. Li**, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch
 
--  We theoretically demonstrate that the element grouping strategy performs better when the RIS has a compact design, with inter-element spacing less than half the wavelength,
+-  We theoretically demonstrate that the element grouping strategy performs better when the RIS has a compact design, with inter-element spacing less than half the wavelength.
+-  This work is selected as the popular article for WCL in April 2023.
 - **IEEE Bibtex**: Z. Li, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch, "Performance Analysis of RIS-Assisted Communications With Element Grouping and Spatial Correlation," in IEEE Wireless Communications Letters, vol. 12, no. 4, pp. 630-634, April 2023, doi: 10.1109/LWC.2023.3237232
 </div>
 </div>
