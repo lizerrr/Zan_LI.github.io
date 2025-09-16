@@ -6,7 +6,7 @@
 [Radio Tomographic Imaging with Reconfigurable Intelligent Surfaces](https://ieeexplore.ieee.org/document/10618967) \\
 **Z. LI**, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch
 
-- We proposed a novel RIS-assisted device-free sensing, named RIS-RTI. Traditional Radio Tomographic Imaging (RTI) systems image the radio frequency attenuation of physical objects in the environment. By incorporating additional radio links provided by RIS into conventional RTI systems, our simulation results show that the RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction. Additionally, the Cramér-Rao lower bound (CRB) of the sensing error is derived to theoretically demonstrate the benefits of using RIS. 
+- We proposed a novel RIS-assisted device-free sensing, named RIS-RTI. Traditional Radio Tomographic Imaging (RTI) systems image the radio frequency attenuation of physical objects in the environment. By incorporating additional radio links provided by RIS into conventional RTI systems, our simulation results show that the **RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction**.
 - **IEEE Bibtex**: Z. Li, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch, " Radio Tomographic Imaging with Reconfigurable Intelligent Surfaces," in IEEE Transactions on Wireless Communications, July 2024, DOI: 10.1109/TWC.2024.3433011.
 </div>
 </div>
