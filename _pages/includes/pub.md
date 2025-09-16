@@ -39,7 +39,7 @@
 
 ## 🖋 Others:
 
--  ``TAP 2024`` [Reconciling Radio Tomographic Imaging with Phaseless Inverse Scattering], A. Dubey, **Z. Li** and R. Murch," in IEEE Transactions on Antennas and Propagation, vol. 72, no. 2, pp. 1837-1849, Feb. 2024, DOI: 10.1109/TAP.2023.3342827.
+- ``TAP 2024`` [Reconciling Radio Tomographic Imaging with Phaseless Inverse Scattering], A. Dubey, **Z. Li** and R. Murch," in IEEE Transactions on Antennas and Propagation, vol. 72, no. 2, pp. 1837-1849, Feb. 2024, DOI: 10.1109/TAP.2023.3342827.
 - ``TMTT 2023`` [An Active Reconfigurable Intelligent Surface Utilizing Phase-Reconfigurable Reflection Amplifiers], J. Rao, Y. Zhang, S. Tang, **Z. Li**, C. -Y. Chiu and R. Murch," in IEEE Transactions on Microwave Theory and Techniques, vol. 71, no. 7, pp. 3189-3202, July 2023, DOI: 10.1109/TMTT.2023.3237029.
 - ``WCL 2022`` [Optimal Grouping Strategy for Reconfigurable Intelligent Surface Assisted Wireless Communications], N. K. Kundu, **Z. Li**, J. Rao, S. Shen, M. R. McKay and R. Murch," in IEEE Wireless Communications Letters, vol. 11, no. 5, pp. 1082-1086, May 2022, DOI: 10.1109/LWC.2022.3156978.
--``TMTT 2022`` [A Novel Reconfigurable Intelligent Surface for Wide-Angle Passive Beamforming,], J. Rao, Y. Zhang, S. Tang, **Z. Li**, S. Shen, C.-Y. Chiu, and R. Murch," in IEEE Transactions on Microwave Theory and Techniques, vol. 70, no. 12, pp. 5427-5439, Dec. 2022, DOI: 10.1109/TMTT.2022.3195224.
+-``TMTT 2022`` [A Novel Reconfigurable Intelligent Surface for Wide-Angle Passive Beamforming], J. Rao, Y. Zhang, S. Tang, **Z. Li**, S. Shen, C.-Y. Chiu, and R. Murch," in IEEE Transactions on Microwave Theory and Techniques, vol. 70, no. 12, pp. 5427-5439, Dec. 2022, DOI: 10.1109/TMTT.2022.3195224.
