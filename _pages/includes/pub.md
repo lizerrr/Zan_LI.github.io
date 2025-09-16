@@ -1,7 +1,7 @@
 # 📝 Publications 
 ## 🖋 First-Author Journals:
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2024</div><img src='images/fs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TWC 2024</div><img src='images/RIS_RTI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Radio Tomographic Imaging with Reconfigurable Intelligent Surfaces](https://livrepository.liverpool.ac.uk/3183537/1/RIS-RTI_3rd_accepted.pdf) \\
