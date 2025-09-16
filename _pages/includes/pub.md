@@ -6,7 +6,7 @@
 [Radio Tomographic Imaging with Reconfigurable Intelligent Surfaces](https://ieeexplore.ieee.org/document/10618967) \\
 **Z. LI**, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- We proposed a novel RIS-assisted device-free sensing, named RIS-RTI. Traditional Radio Tomographic Imaging (RTI) systems image the radio frequency attenuation of physical objects in the environment. By incorporating additional radio links provided by RIS into conventional RTI systems, our simulation results show that the RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction. Additionally, the Cramér-Rao lower bound (CRB) of the sensing error is derived to theoretically demonstrate the benefits of using RIS. 
 - **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 </div>
