@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: /about-me/
+    url: _pages/includes/intro.md
   
   - title: "Educations"
-    url: /educations/
+    url: _pages/includes/others.md
 
   - title: "Honors and Awards"
-    url: /honors-and-awards/
+    url: _pages/includes/honers.md
 
   - title: "Publications"
-    url: /publications/
+    url: _pages/includes/pub.md
 
 
 
