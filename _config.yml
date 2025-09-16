@@ -27,7 +27,7 @@ author:
   bio              : ""
   location         : "Shanghai / Shenzhen"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=h3JydfIAAAAJ&hl"
   email            : "zligq@connect.ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "RayeRen"
+  github           : #"RayeRen"
   google_plus      :
   keybase          :
   instagram        :
