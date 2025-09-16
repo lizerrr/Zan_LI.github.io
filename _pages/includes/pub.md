@@ -6,8 +6,8 @@
 [Radio Tomographic Imaging with Reconfigurable Intelligent Surfaces](https://ieeexplore.ieee.org/document/10618967) \\
 **Z. LI**, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch
 
-- We proposed a novel RIS-assisted device-free sensing, named RIS-RTI. By incorporating additional radio links provided by RIS into conventional RTI systems, our simulation results show that the **RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction**.
-- **IEEE Bibtex**: Z. Li, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch, " Radio Tomographic Imaging with Reconfigurable Intelligent Surfaces," in IEEE Transactions on Wireless Communications, July 2024, DOI: 10.1109/TWC.2024.3433011.
+- We proposed a novel RIS-assisted device-free sensing, named RIS-RTI. By incorporating additional radio links provided by RIS into conventional RTI systems, **RIS-RTI system can reduce the necessary number of nodes by more than half while maintaining high-quality reconstruction**.
+- **IEEE Bibtex**: Z. Li, A. Dubey, S. Shen, N. K. Kundu, J. Rao and R. Murch, "Radio Tomographic Imaging With Reconfigurable Intelligent Surfaces," in IEEE Transactions on Wireless Communications, vol. 23, no. 11, pp. 15784-15797, Nov. 2024, doi: 10.1109/TWC.2024.3433011
 </div>
 </div>
 
@@ -15,11 +15,11 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2021</div><img src='images/fs2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[FastSpeech 2: Fast and High-Quality End-to-End Text to Speech](https://arxiv.org/abs/2006.04558) \\
-**Yi Ren**, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+[The Impact of Phase Information on the Imaging Performance of the Extended Rytov Approximation](https://ieeexplore.ieee.org/abstract/document/10947014) \\
+**Z. Li**, A. Dubey and R. Murch
 
-[**Project**](https://speechresearch.github.io/fastspeech2/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:LkGwnXOMwfcC'></span></strong>
-  - This work is included by many famous speech synthesis open-source projects, such as [PaddlePaddle/Parakeet ![](https://img.shields.io/github/stars/PaddlePaddle/PaddleSpeech?style=social)](https://github.com/PaddlePaddle/PaddleSpeech), [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet) and [fairseq ![](https://img.shields.io/github/stars/pytorch/fairseq?style=social)](https://github.com/pytorch/fairseq).
+- We proposed a Received Signal Strength (RSS)-based wireless sensing system named xPRA-LM, which estimates the electromagnetic properties of objects in the environment using inverse scattering theory. By including phase information provided by the communication system, the enhanced system is more resilient to noise and significantly improves the quality of reconstructions.
+- **IEEE Bibtex**: Z. Li, A. Dubey and R. Murch, "The Impact of Phase Information on the Imaging Performance of the Extended Phaseless Rytov Approximation," in IEEE Open Journal of Antennas and Propagation, vol. 6, no. 4, pp. 989-1000, Aug. 2025, doi: 10.1109/OJAP.2025.3556848
 </div>
 </div>
 
