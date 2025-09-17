@@ -28,7 +28,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCL 2023</div><img src='images/Correlated.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Performance Analysis of RISAssisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\ 
+[Performance Analysis of RISAssisted Communications With Element Grouping and Spatial Correlation](https://drive.google.com/file/d/1p_sX4oIUFqNVeJlRF_hpqlOyruGerO3H/view) \\
 **Z. Li**, N. K. Kundu, J. Rao, S. Shen, M. R. McKay and R. Murch
 
 -  We theoretically demonstrate that the element grouping strategy performs better when the RIS has a compact design, with inter-element spacing less than half the wavelength.
